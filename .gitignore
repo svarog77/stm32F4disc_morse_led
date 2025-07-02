@@ -1,0 +1,13 @@
+# eclipse specific git ignore
+.metadata/
+RemoteSystemsTempFiles/
+.settings/
+Debug/Libraries/
+Debug/src/
+Debug/Utilities/
+*.launch
+
+# STM32 git ignore
+*.project
+*.cproject
+*.ld
